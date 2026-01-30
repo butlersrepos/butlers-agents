@@ -1,0 +1,8 @@
+{
+  "name": "butlers-agents",
+  "description": "Butler's custom Claude Code agents for Godot development",
+  "version": "1.0.0",
+  "author": {
+    "name": "Eric Butler"
+  }
+}
