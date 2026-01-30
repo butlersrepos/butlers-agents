@@ -1,0 +1,14 @@
+{
+  "name": "butlers-agents",
+  "owner": {
+    "name": "Eric Butler"
+  },
+  "plugins": [
+    {
+      "name": "butlers-agents",
+      "description": "Custom agents for Godot 4.5 game development including GDScript architecture, UI design, animation, terrain, and testing specialists",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
